@@ -1,6 +1,15 @@
 .container{
     text-align:center;
 }
+
 body{
     background:pink;
+}
+
+#user{
+    font-size: 18px;
+}
+
+#becomes {
+    font-style: italic;
 }
